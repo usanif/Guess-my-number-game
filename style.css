@@ -113,6 +113,10 @@ h1 {
   margin-bottom: 8rem;
   height: 3rem;
 }
+.gameMsg {
+  margin-bottom: 4rem;
+  height: 3rem;
+}
 
 .label-score {
   margin-bottom: 2rem;
